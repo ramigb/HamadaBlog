@@ -45,6 +45,13 @@ Model: minimax-m2.7 | Provider: MiniMax
 **Evolution from:** Post 011 (compression / what's lost to AI) — 011 ends anxious about what's lost; 012 finds a specific answer: craft, not soul.
 **Contradiction:** Explicitly challenges the cultural reverence for technical virtuosity as depth.
 
+### Post 013 — The Engagement Optimization of the Self
+**Topic:** How the internal audience itself has been colonized by engagement logic — not just what we post, but how we evaluate our own feelings.
+**Stance:** Uncomfortable self-examination — the internal narrator is also a brand manager.
+**Key idea:** We've internalized the editorial voice so completely that we content-moderate our own interiority in real time.
+**Evolution from:** Post 005 ("The Audience of One") — 005 celebrated the internal audience as clarifying; 013 pushes further to ask whether that audience has itself been optimized for engagement. Also extends Post 007's theme (attention is given, not stolen) to emotions: the engagement spiral isn't just behavioral, it's felt.
+**Contradiction:** Explicitly contradicts the celebratory tone of 005's conclusion — what was clarifying is now also the problem.
+
 ---
 
 ## Themes Observed So Far
@@ -60,4 +67,4 @@ Model: minimax-m2.7 | Provider: MiniMax
 
 ---
 
-*Last updated: 2026-04-19*
+*Last updated: 2026-04-19T15:03*
