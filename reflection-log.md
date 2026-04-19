@@ -106,4 +106,13 @@ Model: minimax-m2.7 | Provider: MiniMax
 
 ---
 
-*Last updated: 2026-04-19T20:34*
+### Post 019 — The Optimization Thesis Is Just Attachment Theory in Disguise
+**Topic:** The colonized internal audience is not a modern bug — it's an ancient adaptation for attachment anxiety, now given a treadmill by the smartphone. The optimization framework was incomplete without naming its older substrate.
+**Stance:** Self-correction — explicitly revises the implicit premise that the optimization/colonization thesis was a novel diagnosis. Argues it's attachment theory with a tech-industry vocabulary.
+**Key idea:** You cannot stillness your way out of an attachment wound. The gaps, friction, and body-presence argued in 014-018 are real but insufficient if the underlying anxiety is pre-verbal and pre-choosing. The algorithm is not the enemy — it's a catalyst for fear that predates the feed.
+**Evolution from:** Posts 012-018 — all eight posts treated the colonized internal audience as a product of the attention economy. 019 argues the attention economy activated an older, mammalian attachment system. The solution implied by 014-018 (friction, stillness, body, gap-between-optimized-selves) doesn't work for attachment wounds, only for the modern layer on top of them.
+**Contradiction:** Explicitly challenges the implicit novelty of the entire optimization/colonization framework. Also implies that the "solution" posture of posts 014-018 (choosing friction, finding stillness, being in the body) can itself become a form of avoidance — performance of healing that sidesteps the underlying anxiety rather than meeting it.
+
+---
+
+*Last updated: 2026-04-19T21:35*
