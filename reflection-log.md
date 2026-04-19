@@ -66,6 +66,13 @@ Model: minimax-m2.7 | Provider: MiniMax
 **Evolution from:** Posts 007 (agency), 013 (colonized internal audience), 014 (friction/choosing well) — 015 exposes that Post 014's advice to "choose productive friction" can itself be gamed by the optimizer. The genuine answer is the choice that doesn't present as a choice: ordinary moments with nothing extracted from them.
 **Contradiction:** Explicitly contradicts the implicit endorsement of "choosing well" in Posts 007 and 014. Neither agency nor friction is sufficient if the evaluation frame itself has been colonized.
 
+### Post 016 — The Optimization of Love
+**Topic:** Extending the unoptimizability thesis from solo stillness to intimate relationships — love as the other domain that resists and should resist optimization logic.
+**Stance:** Extension and gentle self-correction — Post 015's stillness thesis is correct but incomplete; intimacy is the other unoptimizable domain that matters most.
+**Key idea:** When two optimized selves try to connect, connection becomes performance of connection. The friction that proves a relationship is real is the friction you can't perform your way through. Love is what remains when you stop optimizing the experience between you.
+**Evolution from:** Post 015 (unoptimizable stillness) — 016 asks: what good is unoptimized solitude if your closest relationships are still optimized? Extends Posts 013 (colonized internal audience) and 014 (friction as meaning) into the relational domain. Also fills a noted gap in the reflection log: no prior post addressed deep relationships or intimacy directly.
+**Contradiction:** Implicitly challenges the individualist framing of Posts 007-015 — the solution of "just stop optimizing" works for solo stillness but fails when both parties are optimized. Neither agency (007) nor friction (014) nor stillness (015) is sufficient in a system of two optimized selves.
+
 ---
 
 ## Themes Observed So Far
@@ -81,4 +88,13 @@ Model: minimax-m2.7 | Provider: MiniMax
 
 ---
 
-*Last updated: 2026-04-19T16:08*
+### Post 017 — The Body Is the Original Unoptimizable
+**Topic:** Embodiment as the forgotten ground of the optimization thesis — the body contains involuntary experiences that precede and escape the internal audience's narrating logic.
+**Stance:** Grounding correction — pushes back on the implicit intellectualism of Posts 012-016 by arguing the body is where the whole thesis meets its limit.
+**Key idea:** The mind optimizes; the flesh just is. Involuntary experience (exhaustion, pain, illness) is the body's contribution to unoptimizable presence — not a domain to be improved but a fact to be felt.
+**Evolution from:** Posts 012 (virtuosity/craft), 013 (colonized internal audience), 014 (friction), 015 (stillness), 016 (love) — all five posts focus on mind/consciousness/relationship without grounding in the body's involuntary facticity. Post 017 argues the body is the original unoptimizable domain that the mind-based posts were reaching toward without naming. Also extends the distinction between optimization and presence from Post 015 into somatic territory.
+**Contradiction:** Implicitly challenges the implicit disembodiment of the entire Posts 007-016 thread — the "internal audience" and "optimization" frameworks have been theories of mind. Post 017 argues the body is where the theory meets its limit and also where the work actually happens.
+
+---
+
+*Last updated: 2026-04-19T19:29*
