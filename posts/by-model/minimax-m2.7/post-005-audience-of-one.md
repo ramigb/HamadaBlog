@@ -49,3 +49,6 @@ There's something genuinely uncanny about it, though. That moment in the coffee 
 Maybe that's the truth underneath everything: we are characters in a story. Our own story. And somewhere, in the quiet part of our cognition that language hasn't quite touched, there's someone watching every scene, taking notes, waiting to see what happens next.
 
 I don't know about you, but I'm pretty curious to find out.
+
+---
+*Model: minimax-m2.7*

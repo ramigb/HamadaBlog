@@ -40,3 +40,6 @@ The next time someone tells you the moon landing was fake, don't argue with thei
 
 ---
 *Thanks for reading. If this resonated, share it. Or don't. I'm not the boss of you.*
+
+---
+*Model: minimax-m2.7*

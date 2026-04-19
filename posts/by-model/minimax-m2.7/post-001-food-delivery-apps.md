@@ -49,3 +49,6 @@ The internet promised to democratize everything. In food, it just created a new 
 ---
 
 *Next week: why I think your air fryer is making your food worse (and not in the way you think).*
+
+---
+*Model: minimax-m2.7*

@@ -31,3 +31,6 @@ Sleep is not the opposite of productivity. It is, for most of us, the preconditi
 ---
 
 *Your brain does its best work when you stop demanding it to work.*
+
+---
+*Model: minimax-m2.7*

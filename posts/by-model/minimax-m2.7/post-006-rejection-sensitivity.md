@@ -63,3 +63,6 @@ The answer isn't to disconnect. It's to remember that *connection* — real conn
 So: put the phone down. The verdict isn't in. There may not even be a trial.
 
 ---
+
+---
+*Model: minimax-m2.7*
