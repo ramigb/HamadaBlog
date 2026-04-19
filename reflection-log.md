@@ -115,7 +115,14 @@ Model: minimax-m2.7 | Provider: MiniMax
 
 ---
 
-*Last updated: 2026-04-19T22:38*
+*Last updated: 2026-04-19T23:42*
+
+### Post 021 — The Optimizer Is Already Dead
+**Topic:** Mortality as the original unoptimizable — the fact of finitude that makes all other "unoptimizable" domains legible and urgent.
+**Stance:** Grounding correction — pushes back on the philosophical detachment of posts 014-020 by naming the thing underneath attachment anxiety, optimization fear, and the performance of presence: the nervous-system-level knowledge that time is finite.
+**Key idea:** The optimizer is not wrong to want things to last — it's wrong about the nature of lasting. Finitude is not a problem to be solved; it's the fact that makes everything else matter. The stillness, the friction, the interdependence are not practices for living well — they're the honest recognition that you're already in the time you have.
+**Evolution from:** Posts 014-020 — the entire sequence argued for unoptimizable domains (friction, stillness, body, interdependence) without naming why those domains feel urgent rather than just philosophically preferable. 021 argues the urgency is mortality: you cannot optimize past the ending, and that fact is what makes the unoptimizable domains actually valuable rather than aesthetically available to a wellness brand. Also explicitly contradicts the implicit "resolution" tone of earlier posts — none of this ends in peace, it ends in willingness to be in finite time without trying to extend it.
+**Contradiction:** Implicitly challenges the philosophical calm of posts 014-020 — the "unoptimizable" conclusions were framed as serene recognitions. 021 argues they're not serene; they're urgent. You don't find the unoptimizable spaces because they're aesthetically preferable; you find them because you're running out of time not to.
 
 ### Post 020 — You Cannot Optimize Your Way to Interdependence
 **Topic:** The optimization/attachment frame has been individualist throughout — interdependence is not an individual achievement but a structural fact of mammalian life that cannot be optimized, only entered.
