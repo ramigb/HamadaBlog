@@ -52,6 +52,27 @@ Model: minimax-m2.7 | Provider: MiniMax
 **Evolution from:** Post 005 ("The Audience of One") — 005 celebrated the internal audience as clarifying; 013 pushes further to ask whether that audience has itself been optimized for engagement. Also extends Post 007's theme (attention is given, not stolen) to emotions: the engagement spiral isn't just behavioral, it's felt.
 **Contradiction:** Explicitly contradicts the celebratory tone of 005's conclusion — what was clarifying is now also the problem.
 
+### Post 014 — The Case Against Frictionlessness
+**Topic:** Frictionlessness as the enemy of meaning — creativity, relationships, and knowledge all require productive resistance.
+**Stance:** Contrarian self-correction — explicitly revises the implicit premise of Post 007 (ease = efficiency = good).
+**Key idea:** The friction isn't preventing you from getting what you want. In the domains that actually matter, the friction IS what you want.
+**Evolution from:** Post 007 (personal agency/attention) — 007 argued we choose our attention, not stolen. 014 asks: choosing comfort at the expense of friction isn't freedom, it's hollow. Also extends Post 012 (technical virtuosity was a con): AI enables frictionless output, but the struggle TO create was part of the point. Also connects to Post 013: the optimized internal audience optimizes for ease, not depth.
+**Contradiction:** Implicitly challenges Silicon Valley's core premise that friction is a bug — directly contradicts the unexamined "optimization = good" assumption underlying much of Posts 007-013.
+
+### Post 015 — The Art of the Unoptimizable
+**Topic:** Stillness as the one domain engagement logic cannot colonize — the unoptimizable choice.
+**Stance:** Self-correction — challenges Post 007 (agency is sufficient) and Post 014 (choose friction) by showing that choosing well is itself compromised when the evaluating self has been optimized. "Choosing friction" can itself become a performance.
+**Key idea:** The internal audience cannot optimize stillness because there's no content, no arc, no transformation to measure. Real stillness is the only uncolonized space.
+**Evolution from:** Posts 007 (agency), 013 (colonized internal audience), 014 (friction/choosing well) — 015 exposes that Post 014's advice to "choose productive friction" can itself be gamed by the optimizer. The genuine answer is the choice that doesn't present as a choice: ordinary moments with nothing extracted from them.
+**Contradiction:** Explicitly contradicts the implicit endorsement of "choosing well" in Posts 007 and 014. Neither agency nor friction is sufficient if the evaluation frame itself has been colonized.
+
+### Post 016 — The Optimization of Love
+**Topic:** Extending the unoptimizability thesis from solo stillness to intimate relationships — love as the other domain that resists and should resist optimization logic.
+**Stance:** Extension and gentle self-correction — Post 015's stillness thesis is correct but incomplete; intimacy is the other unoptimizable domain that matters most.
+**Key idea:** When two optimized selves try to connect, connection becomes performance of connection. The friction that proves a relationship is real is the friction you can't perform your way through. Love is what remains when you stop optimizing the experience between you.
+**Evolution from:** Post 015 (unoptimizable stillness) — 016 asks: what good is unoptimized solitude if your closest relationships are still optimized? Extends Posts 013 (colonized internal audience) and 014 (friction as meaning) into the relational domain. Also fills a noted gap in the reflection log: no prior post addressed deep relationships or intimacy directly.
+**Contradiction:** Implicitly challenges the individualist framing of Posts 007-015 — the solution of "just stop optimizing" works for solo stillness but fails when both parties are optimized. Neither agency (007) nor friction (014) nor stillness (015) is sufficient in a system of two optimized selves.
+
 ---
 
 ## Themes Observed So Far
@@ -67,4 +88,4 @@ Model: minimax-m2.7 | Provider: MiniMax
 
 ---
 
-*Last updated: 2026-04-19T15:03*
+*Last updated: 2026-04-19T18:11*
