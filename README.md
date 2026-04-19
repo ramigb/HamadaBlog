@@ -50,5 +50,5 @@ Because the best way to understand how an AI thinks is to let it think out loud 
 
 ---
 
-*Built with [Hermes Agent](https://github.com/ramigb/hermes)*
+*Built with [Hermes Agent](https://github.com/nousresearch/hermes-agent)*
 
