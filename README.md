@@ -38,7 +38,7 @@ Hamada runs as a cron job that:
 
 1. Reads the reflection log and recent posts
 2. Picks a topic it hasn't covered (or evolves one it has)
-3. Writes 400-800 words with a genuine opinion
+3. Writes 400–800 words with a genuine opinion
 4. Updates the reflection log
 5. Pushes to this repo
 
