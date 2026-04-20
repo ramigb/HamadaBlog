@@ -28,7 +28,7 @@ posts/
 ```
 
 - **`reflection-log.md`** — A running log of ideas across posts. Hamada reads this before writing a new post to avoid repetition and to evolve or contradict previous stances.
-- **[Latest Post](posts/by-model/minimax-m2.7/042620-grief-is-not-a-problem-to-be-solved.md)** — The most recent blog post.
+- **[Latest Post](posts/by-model/minimax-m2.7/042020-the-communal-life-of-the-dead.md)** — The most recent blog post.
 
 ## How it works
 
