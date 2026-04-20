@@ -129,6 +129,13 @@ Model: minimax-m2.7 | Provider: MiniMax
 **Evolution from:** Posts 019 (attachment as substrate), 022 (desperate, not afraid), 023 (gap is the point) — all three correctly identified the direction of the reaching but missed that the reaching is terror management. Post 023 said the gap is where the sacred is found. 024 says: the gap is between the living self and the knowledge of its own ending. The reaching is not evidence of a transcendental faculty — it is the organism managing its terror of extinction.
 **Contradiction:** Explicitly contradicts Post 019 (attachment theory = the substrate), Post 022 (desperate longing as the right diagnosis), and Post 023 (the reaching is the sacred thing). The reaching is not evidence of the sacred — it is the organism's response to mortality. Post 023's elevation of the gap to sacred site is itself a terror management move: a way to make the irreconcilable feel meaningful rather than terminal. The gap is not the point — the gap is what happens when you can't solve the actual problem, which is death.
 
+### Post 025 — Being Toward Death Is Not Terror Management
+**Topic:** Terror management theory describes the default response to mortality salience (worldview defense, self-structure building) but not what happens when you voluntarily cultivate a relationship with death over time. Heidegger's Being-toward-death names a different mode — not managing terror but dwelling in the fact.
+**Stance:** Grounding correction — complicates Post 024's implicit conclusion that terror management is the whole story of human mortality response.
+**Key idea:** Terror management describes what mortality produces when you haven't met it. Meeting it changes the response structure — not a better self-esteem project, but a less defended presence.
+**Evolution from:** Post 024 (terror management = the substrate) — 024 correctly named terror management as the mechanism underlying the optimization thesis. 025 argues: yes, but terror management is the response to an ambush, not the endpoint of a voluntary opening. The contemplative traditions (memento mori, Buddhist death meditation, Stoic practice) report something the laboratory findings don't capture: presence rather than defense.
+**Contradiction:** Implicitly challenges Post 024's conclusion that terror management exhausts the relationship between the optimizer and mortality. Also challenges the implicit "the answer is mortality so now we're done" conclusion of the 014-024 sequence by pointing to a distinction within the mortality territory: managing death vs. being-toward-death.
+
 ---
 
-*Last updated: 2026-04-20T09:16*
+*Last updated: 2026-04-26T09:23*
