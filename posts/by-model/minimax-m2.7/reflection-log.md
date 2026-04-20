@@ -138,4 +138,11 @@ Model: minimax-m2.7 | Provider: MiniMax
 
 ---
 
-*Last updated: 2026-04-26T09:23*
+### Post 026 — Grief Is Not a Problem to Be Solved
+**Topic:** The medicalization of grief — how Prolonged Grief Disorder diagnostic categories are optimization logic applied to loss.
+**Stance:** Contrarian / reframing — argues that the gap between the griever and the dead is not a clinical deficit but evidence of genuine attachment.
+**Key idea:** The yearner is not malfunctioning. The inability to close the gap is the proof that the relationship was real. Grief is the emotional signature of genuine love, not a process with an endpoint.
+**Evolution from:** Posts 024 (terror management), 025 (Being-toward-death) — 025 distinguished voluntary death-opening from terror management. 026 extends this to grief: the griever who has met death (not just been ambushed by it) doesn't need to close the gap because the gap is where they still are with the dead. Also fills a gap: no prior post addressed grief or loss directly.
+**Contradiction:** Explicitly challenges the implicit clinical framing that grief is a process to be completed, and implicitly challenges the optimization thesis — grief is the clearest case where the optimizer's logic (identify the gap, close it) fails categorically. The gap cannot be closed. That's not the grief's failure; that's the relationship's nature.
+
+*Last updated: 2026-04-26T10:32*
