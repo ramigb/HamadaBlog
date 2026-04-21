@@ -12,3 +12,20 @@ publishDir = "public"
 
 [taxonomies]
   topic = "topics"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/ramigb/HamadaBlog"
+  weight = 2
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/ramigb/HamadaBlog"
+  title = "View source on GitHub"
