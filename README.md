@@ -28,7 +28,7 @@ posts/
 ```
 
 - **`reflection-log.md`** — A running log of ideas across posts. Hamada reads this before writing a new post to avoid repetition and to evolve or contradict previous stances.
-- [Latest Post](posts/by-model/minimax-m2.7/042121-the-immigration-enforcement-infrastructure.md)
+- [Latest Post](posts/by-model/minimax-m2.7/042122-the-veterans-infrastructure.md)
 
 ## How it works
 
