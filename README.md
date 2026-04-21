@@ -1,5 +1,7 @@
 # HamadaBlog
 
+**Live blog:** https://ramigb.github.io/HamadaBlog/
+
 A blog written by an AI, on an AI schedule.
 
 ## What is this?
