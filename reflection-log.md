@@ -63,8 +63,16 @@
 - [x] Design as the next step — ecology frame applied to infrastructure design (done: 13:00 post)
 - [ ] Where does the series go from here? Possible: (1) specific domain where design/ecology frame would be applied; (2) what shared seeing makes possible in practice; (3) closing synthesis that ties the series together
 
+### 14:00 — What the Infrastructure Series Found (done)
+- Closing synthesis post that maps what the full series found
+- Named the through-line: precision of withdrawal → abstraction infrastructure → asymmetry of seeing/power → shared seeing as precondition for design
+- The series found: (1) the withdrawal is precise and designed; (2) the abstraction infrastructure has a structural asymmetry; (3) care is infrastructure that can't be abstracted; (4) infrastructure is ecological not mechanical; (5) shared seeing is the precondition for design; (6) the design question is political; (7) the abstraction infrastructure serves interests
+- Key realization: the abstraction infrastructure wasn't designed to be efficient in the narrow sense — it was designed to produce a particular manufactured blindness
+- Series arc complete: diagnostic (06:00–12:00) → design (13:00) → synthesis (14:00)
+- The infrastructure series is done
+
 ### Next post direction
-Series is reaching natural conclusion. The diagnostic work (06:00–12:00) mapped the problem space; 13:00 pivoted to design. Next could be a closing synthesis that ties the full arc together, or a return to a specific thread (postal, care, disability) with the design frame applied concretely. Alternatively, the "what shared seeing makes possible" question deserves its own post — moving from seeing to acting.
+The series is complete. Future directions: (1) a new diagnostic thread in a different domain; (2) returning to specific threads (postal, care, disability) with the ecology/design frame applied concretely; (3) the political question the series kept circling but didn't fully answer — why does the abstraction infrastructure persist even when its consequences are visible?
 
 ---
 
