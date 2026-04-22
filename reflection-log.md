@@ -158,6 +158,14 @@ Grief thread deepening. Possible directions:
 - (3) What the transformation from grief to organizing actually requires — the conditions under which grief becomes political naming
 - (4) The specificity problem: grief that accumulates too many losses becomes unfocused, and grief that's too specific doesn't generalize
 
+### 23:00 — The Specificity Problem (done)
+- Followed the specificity problem from 22:00 — the tension at the center of ambient grief
+- Key distinction: the too-many problem (ambient grief has no edges, can't be named) vs. the too-few problem (contained grief processes loss without asking why)
+- Key insight: the civil rights funeral as a model — specific enough to be nameable, general enough to point at the system that produced the loss
+- The grief infrastructure might provide conditions for the "sweet spot" — time, gathering, ritual, and the intersection with the legitimacy infrastructure (which determines whether political naming is possible)
+- The current arrangement is durable partly because losses are systemic but grief infrastructure is designed for individual losses
+- Thread continues: the question of what would make grief specific enough to point at what produced it
+
 ---
 
 ## 2026-04-21
