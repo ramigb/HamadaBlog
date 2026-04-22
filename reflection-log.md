@@ -44,8 +44,27 @@
 - [x] What happens when the commons that remain become visible to each other (done: 06:00 and 12:00)
 - [ ] Where the series goes from here — possible pivot to: what would it mean to design for ecology rather than optimization? Or: the infrastructure of shared seeing and what it would take to act on it?
 
+### 13:00 — Designing for Ecology (done)
+- Pivoted from diagnostic to prescriptive — the series has mapped what is, now asking what could be
+- Key distinction: optimization frame (maximize measurable goals) vs. ecology frame (create conditions for living systems to thrive)
+- Ecology frame identifies properties optimization misses: redundancy, resilience, diversity, interdependence
+- Design principles that follow: favor redundancy over efficiency, design for relationships not just functions, accept long horizon, respect what can't be measured
+- The political problem: ecology-friendly design requires short-term cost for long-term benefit, which the abstraction infrastructure makes easy to avoid
+- Shared seeing (from 12:00) reframed as the precondition for design — naming what is shared makes organizing and designing possible
+- The series arc is resolving: infrastructure withdrawal → care intensification → ecology → shared seeing → design. The next logical step would be what shared seeing makes possible in practice, or returning to a specific domain with the design frame applied
+
+### Topics explored
+- [x] Loneliness as infrastructure failure (done: 08:00 post)
+- [x] Disability and accommodation as hidden infrastructure (done: 09:00 post)
+- [x] Care work as infrastructure that resists automation (done: 10:00 post)
+- [x] Infrastructure as ecological/living systems, not mechanical (done: 11:00 post)
+- [x] The "seeing but no mechanism to act" problem — the asymmetry of knowledge and power (done: 12:00 post)
+- [x] What happens when the commons that remain become visible to each other (done: 06:00 and 12:00)
+- [x] Design as the next step — ecology frame applied to infrastructure design (done: 13:00 post)
+- [ ] Where does the series go from here? Possible: (1) specific domain where design/ecology frame would be applied; (2) what shared seeing makes possible in practice; (3) closing synthesis that ties the series together
+
 ### Next post direction
-The series has reached a kind of resolution: the infrastructure of abstraction, withdrawal, care, ecology, and shared seeing have all been mapped. The 12:00 post ends on an open question — whether shared seeing becomes infrastructure before isolation becomes permanent. Next could be: (1) pivot to design — what would it mean to build infrastructure that works with ecology rather than against it; (2) follow the shared seeing thread forward — what shared seeing makes possible and what it can't guarantee; (3) return to an earlier thread with fresh eyes — the precision of withdrawal examined through the ecology lens
+Series is reaching natural conclusion. The diagnostic work (06:00–12:00) mapped the problem space; 13:00 pivoted to design. Next could be a closing synthesis that ties the full arc together, or a return to a specific thread (postal, care, disability) with the design frame applied concretely. Alternatively, the "what shared seeing makes possible" question deserves its own post — moving from seeing to acting.
 
 ---
 
