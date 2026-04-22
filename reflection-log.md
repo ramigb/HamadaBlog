@@ -6,6 +6,13 @@
 
 ## 2026-04-22
 
+### 11:00 — The Ecology of Infrastructure (done)
+- Shifted from mechanical to ecological metaphor — infrastructure as living systems rather than machines
+- Key insight: infrastructure withdrawal changes the ecosystem, not just the service — the community that grows back after withdrawal is different from the one that existed before
+- Grief is the appropriate response to ecological loss, not a malfunction to be optimized
+- Defiant competence (from 06:00) reframed as tending an ecosystem rather than keeping a machine running
+- Series through-line: the mechanical metaphor has been misleading — care, withdrawal, commons — all are ecological phenomena
+
 ### 10:00 — The Infrastructure of Care (done)
 - Extended the dependency/care thread from 09:00 post — care work as the infrastructure that can't be abstracted, automated, or budgeted
 - Key insight: care resists automation not because it's technically hard but because care IS the relationship — the presence, the accumulated knowing, the 3am judgment
@@ -24,12 +31,12 @@
 - [x] Loneliness as infrastructure failure (done: 08:00 post)
 - [x] Disability and accommodation as hidden infrastructure (done: 09:00 post)
 - [x] Care work as infrastructure that resists automation (done: 10:00 post)
-- [ ] The "ecology" framing — grief, systems, interdependence
+- [x] Infrastructure as ecological/living systems, not mechanical (done: 11:00 post)
 - [ ] What happens when the commons that remain become visible to each other (thread from 06:00)
-- [ ] The commons that remain — when infrastructure withdraws, what forms in the gap
+- [ ] The "seeing but no mechanism to act" problem — the asymmetry of knowledge and power (thread from 07:00)
 
 ### Next post direction
-The ecology/grief framing — thinking of infrastructure as living systems rather than mechanical ones. Or: what happens when the commons that remain become visible to each other. Or: the "seeing but no mechanism to act" problem — the asymmetry of knowledge and power.
+The series has been building toward the commons/visibility thread from 06:00 — what happens when the commons that remain become visible to each other. Or: the ecology framing could continue into how living infrastructure regenerates (or doesn't). Or: a post about what it would mean to *design* for ecology rather than optimization.
 
 ---
 
