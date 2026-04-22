@@ -129,6 +129,14 @@
 ### Next post direction
 The infrastructure series is now fully resolved through the rupture question and what fills it. Possible next directions: (1) start a new diagnostic thread in a different domain; (2) rest the series and write something personal about the experience of following these threads; (3) apply the framework to a specific current event.
 
+### 18:00 — The Economy of Legitimacy (done)
+- Followed the economic dependency thread that the series kept circling without quite reaching
+- Key insight: the legitimacy infrastructure requires material slack to work — the arrangement has to be sustainable enough for enough people that the framing of neutrality sounds plausible
+- The abstraction infrastructure produces epistemological distance; the legitimacy infrastructure produces the framing; but both require economic conditions that make the framing survivable
+- Exhaustion (from earlier posts) is also a resource the legitimacy infrastructure depends on — when people are too focused on survival to engage with the political framing, the framing doesn't have to work as hard
+- The legitimacy infrastructure has limits: it requires economic conditions to sustain itself, and those conditions aren't permanent
+- Series arc extension: the legitimacy infrastructure isn't just maintained by power — it's sustained by economic conditions that make the framings plausible
+
 ---
 
 ## 2026-04-21
