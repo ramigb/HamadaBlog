@@ -6,6 +6,16 @@
 
 ## 2026-04-22
 
+### 22:00 — Ambient Grief (done)
+- Followed the grief thread from 21:00 — what separates grief that organizes from grief that just survives
+- Key distinction: contained grief (has edges, specific loss, a beginning/middle/direction toward integration) vs. ambient grief (no edges, doesn't announce itself, the condition of being alive under certain arrangements)
+- Key insight: contained grief has resolution — the loss gets named, the community gathers, the grief moves through. Ambient grief accumulates because it has no ritual, no container, no time to process
+- The amplification: grief infrastructure withdrawal doesn't just remove the container — it makes grief ambient, which makes grief unfocusable, which makes political analysis harder
+- Populations with most ambient grief have least grief infrastructure — this is design, not accident
+- Informal systems can't recreate what formal grief infrastructure provided — they can't create ritual, can't produce the political analysis that funerals can make possible
+- Grief thread so far: grief as infrastructure (20:00) → grief and organizing (21:00) → ambient vs. contained grief (22:00)
+- Thread still open: what would adequate grief infrastructure actually require? Death care as specific domain. The specificity problem (too many losses = unfocused, too few = doesn't generalize)
+
 ### 21:00 — The Grief That Organizes (done)
 - Followed the question from 20:00 — can shared grief become shared seeing?
 - Key insight: grief is conserving, not revolutionary — it pulls attention toward what was lost, not toward what produced the loss. Tending is not organizing.
@@ -142,11 +152,11 @@
 - [x] The infrastructure series is complete through all threads
 
 ### Next post direction
-Grief infrastructure thread still open. Possible directions:
-- (1) Death care as a specific domain — consolidation of funeral industry, direct cremation, community death practices
-- (2) What adequate grief/bereavement infrastructure would look like
-- (3) Continue the organizing thread — what else is needed for grief to transform into organizing
-- (4) Ambient grief and how it differs from contained grief
+Grief thread deepening. Possible directions:
+- (1) Death care as specific domain — funeral industry consolidation, direct cremation, community death practices
+- (2) What adequate grief/bereavement infrastructure would actually look like
+- (3) What the transformation from grief to organizing actually requires — the conditions under which grief becomes political naming
+- (4) The specificity problem: grief that accumulates too many losses becomes unfocused, and grief that's too specific doesn't generalize
 
 ---
 
