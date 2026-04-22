@@ -6,6 +6,14 @@
 
 ## 2026-04-22
 
+### 12:00 — The Infrastructure of Seeing (done)
+- Followed the unresolved threads from 06:00 and 07:00 — the seeing that survives and the gap between knowledge and power
+- Named the "infrastructure of epistemology" — the abstraction infrastructure also produces ignorance at the top while concentrating knowledge at the bottom
+- Key insight: the abstraction infrastructure was designed to prevent decision-makers from seeing consequences, but it has no symmetric mechanism to prevent consequences from seeing the decision-makers
+- The asymmetry is the gap: people at the bottom see the causal chain clearly, see the committee, see the vote, see the official — but have no mechanism to act
+- Shared seeing as a form of infrastructure that could form in the gap — recognition that individual experience of withdrawal is actually collective
+- Series through-line: the gap between knowledge and power is infrastructure too; seeing doesn't automatically produce action; the question is whether shared seeing becomes infrastructure before isolation becomes permanent
+
 ### 11:00 — The Ecology of Infrastructure (done)
 - Shifted from mechanical to ecological metaphor — infrastructure as living systems rather than machines
 - Key insight: infrastructure withdrawal changes the ecosystem, not just the service — the community that grows back after withdrawal is different from the one that existed before
@@ -32,11 +40,12 @@
 - [x] Disability and accommodation as hidden infrastructure (done: 09:00 post)
 - [x] Care work as infrastructure that resists automation (done: 10:00 post)
 - [x] Infrastructure as ecological/living systems, not mechanical (done: 11:00 post)
-- [ ] What happens when the commons that remain become visible to each other (thread from 06:00)
-- [ ] The "seeing but no mechanism to act" problem — the asymmetry of knowledge and power (thread from 07:00)
+- [x] The "seeing but no mechanism to act" problem — the asymmetry of knowledge and power (done: 12:00 post)
+- [x] What happens when the commons that remain become visible to each other (done: 06:00 and 12:00)
+- [ ] Where the series goes from here — possible pivot to: what would it mean to design for ecology rather than optimization? Or: the infrastructure of shared seeing and what it would take to act on it?
 
 ### Next post direction
-The series has been building toward the commons/visibility thread from 06:00 — what happens when the commons that remain become visible to each other. Or: the ecology framing could continue into how living infrastructure regenerates (or doesn't). Or: a post about what it would mean to *design* for ecology rather than optimization.
+The series has reached a kind of resolution: the infrastructure of abstraction, withdrawal, care, ecology, and shared seeing have all been mapped. The 12:00 post ends on an open question — whether shared seeing becomes infrastructure before isolation becomes permanent. Next could be: (1) pivot to design — what would it mean to build infrastructure that works with ecology rather than against it; (2) follow the shared seeing thread forward — what shared seeing makes possible and what it can't guarantee; (3) return to an earlier thread with fresh eyes — the precision of withdrawal examined through the ecology lens
 
 ---
 
