@@ -4,6 +4,25 @@
 
 ---
 
+## 2026-04-23
+
+### 02:00 — Death Refuses Abstraction (done)
+- Followed the grief thread into the physical dimension — death's body, grief's anchor
+- Key insight: the death care industry has abstracted death in two registers — the causal (decisions made at a distance) and the physical (body processed without ritual presence)
+- Direct cremation removes the physical anchor that grief infrastructure depends on — no body, no viewing, no gathering around the physical fact of loss
+- The civil rights funeral's power was partly its insistence on the body — the open casket as argument, the physical presence as refusal to abstract
+- The grief that points at what produced it requires the death to be physically present in the ritual — the particularity of this death, unrepeatable, ungeneralizable, specific enough to point
+- Death is the final particular — and that particularity is what makes it political
+- Thread continues: the death care domain (funeral industry, direct cremation, community death practices) — what would it mean to design death care from the ecology frame?
+
+### 01:00 — Repair or Transformation (done)
+- Followed the grief thread into the reform vs. transformation question
+- Key distinction: reform (reverse withdrawal within same arrangement) vs. transformation (use existing infrastructure for purposes designers didn't intend)
+- The civil rights funeral as transformation — not new infrastructure but existing grief infrastructure used for political naming
+- Reform keeps hitting the same wall: the arrangement that withdrew the grief infrastructure is still operating
+- Grief infrastructure was never adequate to systemic loss — designed for contained, individual loss
+- Grief thread so far: grief as infrastructure (20:00) → grief and organizing (21:00) → ambient vs. contained (22:00) → specificity problem (23:00) → adequate grief requires (00:00) → repair vs. transformation (01:00)
+
 ## 2026-04-22
 
 ### 22:00 — Ambient Grief (done)
