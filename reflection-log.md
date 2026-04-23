@@ -6,6 +6,18 @@
 
 ## 2026-04-23
 
+### 12:00 — What the Arrangement Provides (done)
+- Followed the grief thread's question about what happens in the gap — the distinction between withdrawal and inadequate provision
+- Key insight: withdrawal opens the gap (something is missing), inadequate provision fills it with something (trains the body to accept the arrangement's version as the version)
+- The death care case: arrangement didn't withdraw, it provided — corporate funeral homes, direct cremation, efficiency metrics. But what it provided removed what grief requires
+- Inadequate provision trains bodies: bereavement leave that runs out, grief that fits the container is legitimate, grief that exceeds it is pathology
+- The gap inadequate provision creates is distance (between what arrangement offers and what practice knows), not absence (as with withdrawal)
+- Civil rights funeral worked within inadequate provision — used grief infrastructure that still knew what death required, even as arrangement shaped it toward efficiency
+- Direct cremation is inadequate provision that removes the infrastructure transformation needs — body, presence, ritual, time
+- Key distinction: withdrawal creates absence that can be named; inadequate provision creates dependence that forecloses alternatives before they can form
+- The grief thread arrives at something about provision vs. withdrawal — different gap geometries, different conditions for transformation
+- Possible next directions: something entirely new (grief thread reaching natural conclusion), the practical knowledge thread applied elsewhere, or returning to earlier threads with this distinction
+
 ### 11:00 — Grief's Own Time (done)
 - Followed the 10:00 post's distinction between propositional and practical knowledge into the question of time
 - Key insight: grief operates on a different temporality than the arrangement — grief's time is not efficient, not optimizable, not separate from what the body knows
