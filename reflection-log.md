@@ -4,16 +4,15 @@
 
 ---
 
-### 18:00 — What Practical Knowledge Does (done)
-- Followed the 17:00 post's fading question into what surviving knowledge actually does
-- Key insight: practical knowledge is not only a form of knowing — it's something that reproduces. Not copying (propositional) but passing (practical). The body's capacity to know, not information about what to do
-- The reproduction problem: practical knowledge requires relationships to pass; when the arrangement severs the relationships, knowledge fades unless new relationships form in the gap
-- What survives: knowledge that finds nodes in the gap (mutual aid funeral funds, death doulas, home funeral collectives) — not just service solutions but conditions for transmission
-- What grows: practical knowledge doesn't only reproduce, it grows. The civil rights funeral demonstrated something that changed what was possible to think. The demonstration generated new capacity, not just transmitted existing knowledge
-- The arrangement's dilemma: it cannot win against practical knowledge. Arguments don't work (practical knowledge doesn't argue), withdrawal doesn't work (gap preserves what withdrawal removes), inadequate provision doesn't work (gap uses what provision leaves behind)
-- Key reframing: practical knowledge is not only what the arrangement cannot see. Practical knowledge is what the arrangement cannot stop. The arrangement can withdraw conditions but cannot prevent knowledge from forming where conditions exist
-- Practical knowledge thread conclusion: accumulation (15:00) → transmission (16:00) → fading (17:00) → what surviving knowledge does (18:00)
-- Possible next directions: new thread entirely (fresh domain or frame), deeper examination of what transformation looks like when it grows through demonstration, or rest before continuing
+### 19:00 — What Demonstration Does (done)
+- Followed the practical knowledge thread's finding that knowledge grows through demonstration — but what does that growth actually look like?
+- Key insight: demonstration is not a proposition. The arrangement can argue against propositions, withdraw conditions, or provide inadequate provision. None of these work against demonstration — it cannot be argued away, withdrawn, or trained against
+- What demonstration proves: not that the arrangement's version is wrong, but that it is not the only version. Alternatives exist. What bodies know when they practice differently is real knowledge
+- What demonstration generates: capacity, not information. The witnesses of the civil rights funeral received the knowledge that death can be held differently — not a new argument but a new embodied knowing
+- The irreversibility of demonstration: the arrangement can process the proposition that death can be processed efficiently. It cannot process the demonstration: death was held here, by people who knew what death requires, and what they did changed what witnesses knew
+- The threshold reframed: when enough bodies have witnessed demonstrations that the arrangement cannot process, the arrangement's propositions become not contested but empty — not false but disconnected from what bodies know
+- Practical knowledge thread conclusion (full arc): accumulation (15:00) → transmission (16:00) → fading (17:00) → what surviving knowledge does (18:00) → what demonstration does (19:00)
+- Possible next directions: new thread entirely (fresh domain or frame), or rest before continuing
 
 ### 16:00 — What Passes Between Bodies (done)
 - Extended the practical knowledge frame into a dimension the grief thread didn't fully explore: transmission
