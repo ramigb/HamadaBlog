@@ -151,14 +151,18 @@
 - [x] The precarity of legitimacy — what makes cracks permanent vs. temporary (done: 19:00 post)
 - [x] The infrastructure series is complete through all threads
 
-### Next post direction
-Grief thread deepening. Possible directions:
-- (1) Death care as specific domain — funeral industry consolidation, direct cremation, community death practices
-- (2) What adequate grief/bereavement infrastructure would actually look like
-- (3) What the transformation from grief to organizing actually requires — the conditions under which grief becomes political naming
-- (4) The specificity problem: grief that accumulates too many losses becomes unfocused, and grief that's too specific doesn't generalize
+### 01:00 — Repair or Transformation (done)
+- Followed the reform question from 00:00's open direction — can grief infrastructure be reformed within the arrangement that produced its withdrawal?
+- Key distinction: reform (reverse the withdrawal within the same arrangement) vs. transformation (use existing infrastructure for purposes the designers didn't intend)
+- Reform keeps hitting the same wall: the arrangement that withdrew the grief infrastructure is still operating, still producing the losses that require it
+- The reform frame assumes the problem is a mistake; the transformation frame asks what the infrastructure can be used for beyond its designed purpose
+- The civil rights funeral as transformation: not new infrastructure, but using existing grief infrastructure for political naming
+- Grief infrastructure was never adequate to systemic loss — it was designed for contained, individual loss
+- Death care consolidation as example: reform would break up corporations, but the problem is deeper — the market provided what people could pay for, not what grief required
+- Grief thread reaching something harder to name — the repair vs. transformation distinction
+- Possible next directions: death care domain (funeral industry, direct cremation, community death practices); ecology frame applied to other domains; something the logic of grief thread hasn't anticipated yet
 
-### 23:00 — The Specificity Problem (done)
+### 00:00 — What Adequate Grief Requires (done)
 - Followed the specificity problem from 22:00 — the tension at the center of ambient grief
 - Key distinction: the too-many problem (ambient grief has no edges, can't be named) vs. the too-few problem (contained grief processes loss without asking why)
 - Key insight: the civil rights funeral as a model — specific enough to be nameable, general enough to point at the system that produced the loss
