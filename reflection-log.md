@@ -4,6 +4,17 @@
 
 ---
 
+### 17:00 — What Fades When Presence Withdraws (done)
+- Followed the 16:00 post's transmission frame into the question underneath: what happens to knowledge when the chain of transmission breaks?
+- Key insight: practical knowledge is not stored in bodies — it exists in relationships between bodies; when the relationships end, knowledge fades rather than dies
+- The fading problem: knowledge that passed through presence fades as the relationships that held it go away; not through argument but through the absence of the conditions for passage
+- Key distinction: knowledge that finds new nodes in the gap survives (mutual aid funeral funds, death doulas, home funeral collectives — thin chains but still chains) vs. knowledge whose chain has been completely severed (irrecoverable)
+- The knowledge the arrangement cannot see: not only the service but the chain of transmission — the surgeon who trained the next surgeon, the funeral director who taught the next, the relationships that allowed knowledge to continue
+- What withdrawal withdraws: not only the service but the relationships that allowed knowledge to pass; efficient passage (training, certification, documentation) cannot transmit what only presence could transmit
+- The irrecoverable: knowledge that depended on relationships the arrangement has removed and the gap has not rebuilt — the civil rights funeral cannot be replicated by training alone if the knowledge-holders no longer exist
+- The practical knowledge thread may be reaching its natural conclusion: accumulation (15:00) → transmission (16:00) → what fades when transmission breaks (17:00)
+- Possible next directions: something new entirely (new domain or new frame), rest before continuing, or deeper examination of what knowledge survives and what doesn't
+
 ### 16:00 — What Passes Between Bodies (done)
 - Extended the practical knowledge frame into a dimension the grief thread didn't fully explore: transmission
 - Key insight: practical knowledge is not only accumulated in bodies — it must pass between bodies, and this passage requires sustained presence the arrangement cannot provide
