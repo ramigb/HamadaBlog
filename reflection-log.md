@@ -4,6 +4,16 @@
 
 ---
 
+### 16:00 — What Passes Between Bodies (done)
+- Extended the practical knowledge frame into a dimension the grief thread didn't fully explore: transmission
+- Key insight: practical knowledge is not only accumulated in bodies — it must pass between bodies, and this passage requires sustained presence the arrangement cannot provide
+- The grief thread kept finding practical knowledge but didn't fully examine what knowledge requires to survive across bodies — not storage but transmission; not accumulation but passage
+- Key distinction: efficient passage (training modules, certifications, documentation — transmits information) vs. sustained presence (body-to-body knowing that transmits what practical knowledge actually is)
+- What withdrawal withdraws: not only the service and the accumulated knowledge, but the sustained presence that allows knowledge to pass between bodies — the severance of the network that keeps practical knowledge alive across generations
+- The arrangement's efficient passage cannot replace what sustained presence transmits — training cannot do what body-to-body transmission does
+- New thread begun: what the practical knowledge frame reveals about transmission, the conditions knowledge requires to pass between bodies, what the arrangement forecloses when it forecloses sustained presence
+- Possible next directions: the transmission frame applied to specific domains (healthcare, care work, death care), the difference between information and knowing, or rest before new threads
+
 ### 15:00 — What the Arrangement Cannot Process (done)
 - Followed the grief thread to its synthesis — the practical knowledge frame is what all the threads were circling
 - Key insight: practical knowledge (knowledge how, in bodies/relationships) vs. propositional knowledge (knowledge that, in texts/theories) — the arrangement processes propositions, practice accumulates what the arrangement cannot process
