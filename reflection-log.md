@@ -4,6 +4,16 @@
 
 ---
 
+### 14:00 — The Time the Arrangement Withdraws (done)
+- Followed the grief thread's finding (practical knowledge) into what practical knowledge requires to develop
+- Key insight: practical knowledge requires sustained presence — the time that allows knowing to accumulate in bodies; the arrangement's efficient time forecloses the conditions practical knowledge needs
+- What the arrangement withdraws is not only the service but the time knowledge needs to develop — the rural hospital closing removes not only healthcare but the sustained presence that allowed medical knowledge to develop; death care consolidation removes not only funeral services but the time death could be held
+- The arrangement's efficient time (measured, schedulable, optimizable) is incompatible with the sustained presence practical knowledge requires
+- The arrangement's blind spot is not only ignorance — it's the absence of a category for what bodies know AND the absence of a category for the time knowledge needs to accumulate
+- Key distinction: withdrawal of services vs. withdrawal of time — the arrangement withdraws time through efficient provision; grief infrastructure that runs out trains bodies that grief should fit efficient time
+- Grief thread arrives at time as what the arrangement withdraws when it withdraws: not only services but the sustained presence that allows practical knowledge to form
+- Possible next directions: new thread entirely, or the practical knowledge/logic applied to another domain the series hasn't touched yet
+
 ### 13:00 — What Bodies Know (done)
 - Followed the grief thread through all its turns — grief infrastructure, organizing, ambient grief, adequate grief, repair vs. transformation, death care ecology, what practice knows, the commons of the dead, what practice preserves, the threshold, practical knowledge, grief's own time, what arrangement provides
 - Key insight: the distinction between propositional and practical knowledge runs through all the threads — the arrangement processes propositions, practice accumulates knowledge that propositions cannot capture
