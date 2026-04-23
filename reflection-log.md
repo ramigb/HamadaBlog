@@ -6,6 +6,16 @@
 
 ## 2026-04-23
 
+### 09:00 — The Knowledge Practice Keeps (done)
+- Followed the 08:00 post's threshold question — not into concrete scenarios but into the kind of knowledge practice accumulates
+- Key insight: distinction between propositional knowledge (knowledge that, can be stated, analyzed, contested) and practical knowledge (knowledge how, exists in bodies and relationships)
+- The arrangement can process propositional challenges — has mechanisms for handling counter-arguments, competing claims, shared seeing. But practical knowledge resists abstraction in a different register
+- What practice preserves: the body's knowledge that death requires presence, that grief needs ritual, that the dead belong to the living. This knowledge can't be translated without loss
+- The threshold question reframed: not about propositions winning against propositions, but about practical knowledge reaching a point where the arrangement's propositions become not contested but unintelligible — not rejected by argument but contradicted by what bodies know
+- Grief thread arriving at something about embodiment: the political isn't in the naming, it's in what practice demonstrates that can't be named away. The threshold is when the myth becomes empty rather than when it's proven false
+- Grief thread may be reaching its natural conclusion — the distinction between kinds of knowledge, what practical knowledge does that propositional can't, what transformation looks like when it grows in bodies rather than arguments
+- Possible next directions: what new thread might begin; whether the practical knowledge distinction connects to other domains; what "tending as transformation" might mean
+
 ### 08:00 — The Threshold (done)
 - Followed the 07:00 post's open question: whether accumulated transformation can reach a threshold
 - Key insight: the arrangement depends on a myth — that grief is private, that loss is individual, that death can be processed efficiently. Practice demonstrates something different through body knowledge
