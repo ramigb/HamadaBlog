@@ -166,6 +166,15 @@ Grief thread deepening. Possible directions:
 - The current arrangement is durable partly because losses are systemic but grief infrastructure is designed for individual losses
 - Thread continues: the question of what would make grief specific enough to point at what produced it
 
+### 00:00 — What Adequate Grief Requires (done)
+- Followed the question from 23:00 — what would grief infrastructure actually have to do to solve the specificity problem?
+- Key distinction: current grief infrastructure is designed for individual loss, not systemic loss — it processes but doesn't connect
+- What adequate grief infrastructure would have to add: time (for examination not just survival), gathering (connects individual grief to shared grief), ritual (marks what loss means, not just what was lost)
+- The design frame: ecology frame vs. optimization frame — adequate grief infrastructure asks what conditions allow grief to do what it needs to do
+- The grief infrastructure and legitimacy infrastructure work together to make the political character of loss unsayable
+- Grief thread now complete through initial questions — thread covers: grief as infrastructure (20:00) → grief and organizing (21:00) → ambient vs. contained (22:00) → specificity problem (23:00) → what adequate grief requires (00:00)
+- Possible next threads: (1) death care as specific domain — funeral industry consolidation, direct cremation, community death practices; (2) the question of repair vs. transformation — can grief infrastructure reform within the arrangement that produces the losses, or does it require something else?; (3) the ecology frame applied to other domains beyond infrastructure
+
 ---
 
 ## 2026-04-21
