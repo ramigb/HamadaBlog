@@ -6,6 +6,17 @@
 
 ## 2026-04-23
 
+### 03:00 — The Ecology of Death Care (done)
+- Followed the thread from 02:00 — what would it mean to design death care from the ecology frame?
+- Key distinction: optimization frame (maximize measurable goals) vs. ecology frame (conditions for living systems to thrive)
+- Death care has been optimized — consolidation into four corporations, direct cremation as majority, efficiency as the metric
+- The ecology frame sees what optimization misses: redundancy (multiple providers as resilience against closure), relationships (funeral director who knows the community), diversity (different traditions as different solutions to the same problem), long horizon (what happens to grief when death care closes)
+- Key insight: the optimization frame removed redundancy, severed relationships, reduced diversity, and externalized long-term costs — all visible in the fragility of current death care
+- Death care designed from the ecology frame would: preserve redundancy, preserve relationships, preserve diversity, consider long-term effects
+- Connection to grief thread: grief infrastructure (time, gathering, ritual) depends on death care that supports it — direct cremation removes the physical anchor, but also removes the conditions for grief to complete
+- The optimization frame asks "how do we process death efficiently?" The ecology frame asks "how do we hold death so that the living can continue?"
+- Thread continues: community death practices as specific domain; what transformation of death care might look like; the connection between death care and political life
+
 ### 02:00 — Death Refuses Abstraction (done)
 - Followed the grief thread into the physical dimension — death's body, grief's anchor
 - Key insight: the death care industry has abstracted death in two registers — the causal (decisions made at a distance) and the physical (body processed without ritual presence)
@@ -169,6 +180,7 @@
 - [x] The economy of legitimacy — the material conditions that sustain the framing (done: 18:00 post)
 - [x] The precarity of legitimacy — what makes cracks permanent vs. temporary (done: 19:00 post)
 - [x] The infrastructure series is complete through all threads
+- [x] Death care as ecology — what the ecology frame reveals about death care (done: 03:00 post)
 
 ### 01:00 — Repair or Transformation (done)
 - Followed the reform question from 00:00's open direction — can grief infrastructure be reformed within the arrangement that produced its withdrawal?
