@@ -6,6 +6,15 @@
 
 ## 2026-04-23
 
+### 06:00 — What Practice Knows (done)
+- Followed the question from 05:00 — not about visibility but about what practice knows that organizing can't access
+- Key insight: practice knows what the arrangement does directly, in the doing — the body washed, the grave dug, the family held through the night — without requiring shared seeing or analysis
+- The civil rights funeral was organizing (aimed at recognition, visible, deliberate), but the practice that preceded it didn't aim at anything — it just held what the arrangement couldn't hold
+- Key distinction: transformation that doesn't require a movement — happens in practice, not in organizing. Doesn't require visibility, coordination, or shared narrative. Just requires practice to continue.
+- What practice knows: death is not a problem to be solved, loss is not a service to be delivered, the dead belong to the living
+- The gap's transformation doesn't need the commons to become visible to themselves — the transformation happens in the practice, not in the recognition of the practice
+- Thread reaches something harder to name: the political dimension of what practice embodies without intending, what transformation looks like when it grows without organizing
+
 ### 05:00 — The Commons of the Dead (done)
 - Followed the thread from 04:00 — what happens when community death practices become visible to each other
 - Key insight: the isolation of community death practices is part of the gap's design — each practice believes the failure is local, the gap is specific, the death they hold is an exception rather than a pattern
