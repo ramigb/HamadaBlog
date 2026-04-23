@@ -6,6 +6,16 @@
 
 ## 2026-04-23
 
+### 04:00 — The Community That Holds Its Dead (done)
+- Followed the 03:00 post into what community death practices actually are
+- Key insight: community death practices exist in the gap — mutual aid funeral funds, death doulas, home funeral collectives, green burial grounds — they hold the particularity that corporate/institutional death care cannot
+- Connection to infrastructure series: the "maintenance of last resort" concept applied to death — when formal death care withdraws, the maintenance moves into informal relationships that are already overextended
+- Key distinction: community death practices are not repair (don't reverse withdrawal) but might be transformation (use what remains for purposes designers didn't intend)
+- The designed insufficiency: the gap is too large to fill informally, communities with most death care infrastructure need it least, communities without it are already overextended
+- The civil rights funeral as transformation: grief infrastructure used for political naming. Community death practices might be something else: grief infrastructure maintained outside the arrangement that produced its withdrawal
+- Grief thread reaching toward something: the commons that form in the death care gap, what's possible there, what transformation might look like when it doesn't require a movement
+- Thread continues: what happens when community death practices become visible to each other; the political dimension of holding death collectively; the connection between death care commons and other commons
+
 ### 03:00 — The Ecology of Death Care (done)
 - Followed the thread from 02:00 — what would it mean to design death care from the ecology frame?
 - Key distinction: optimization frame (maximize measurable goals) vs. ecology frame (conditions for living systems to thrive)
