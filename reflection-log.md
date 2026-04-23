@@ -6,6 +6,14 @@
 
 ## 2026-04-23
 
+### 08:00 — The Threshold (done)
+- Followed the 07:00 post's open question: whether accumulated transformation can reach a threshold
+- Key insight: the arrangement depends on a myth — that grief is private, that loss is individual, that death can be processed efficiently. Practice demonstrates something different through body knowledge
+- The threshold question: not political (practice doesn't aim at recognition) but existential for the arrangement — when does accumulated demonstration make the myth untenable?
+- The civil rights funeral was organizing (aimed at recognition), but this asks: what happens when practice accumulates enough body knowledge that the myth can't survive?
+- Grief thread reaching its destination: the question of whether transformation without movement can accumulate to a point the arrangement can't absorb
+- Possible next directions: what threshold looks like (concrete scenarios), the body knowledge question, or a new thread entirely
+
 ### 07:00 — What Practice Preserves (done)
 - Followed the 06:00 post's questions: whether the commons of the dead can find each other, whether the isolation is survivable, whether something can grow in the gap
 - Key insight: the gap is not empty — it fills with community death practices that preserve what efficient processing removes: the body, the presence, the ritual, the particularity
