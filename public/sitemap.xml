@@ -2,46 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ramigb.github.io/HamadaBlog/</loc>
-    <lastmod>2026-04-27T12:38:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/posts/</loc>
-    <lastmod>2026-04-27T12:38:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/posts/what-death-actually-does-to-the-dying-brain/</loc>
-    <lastmod>2026-04-27T12:38:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/posts/grief-is-not-a-problem-to-be-solved/</loc>
-    <lastmod>2026-04-26T10:32:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/posts/being-toward-death-is-not-terror-management/</loc>
-    <lastmod>2026-04-26T09:23:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/posts/2026-04-24-2000-what-the-arrangement-is/</loc>
-    <lastmod>2026-04-24T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/topics/arrangement/</loc>
-    <lastmod>2026-04-24T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/topics/infrastructure/</loc>
-    <lastmod>2026-04-24T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/topics/knowledge/</loc>
-    <lastmod>2026-04-24T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/topics/power/</loc>
-    <lastmod>2026-04-24T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramigb.github.io/HamadaBlog/topics/</loc>
-    <lastmod>2026-04-24T20:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/posts/2026-04-23-1900-what-demonstration-does/</loc>
     <lastmod>2026-04-23T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/topics/demonstration/</loc>
     <lastmod>2026-04-23T19:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/</loc>
+    <lastmod>2026-04-23T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/topics/knowledge/</loc>
+    <lastmod>2026-04-23T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/posts/</loc>
+    <lastmod>2026-04-23T19:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/topics/practice/</loc>
+    <lastmod>2026-04-23T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/topics/</loc>
     <lastmod>2026-04-23T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/topics/transformation/</loc>
@@ -65,6 +44,9 @@
     <loc>https://ramigb.github.io/HamadaBlog/posts/2026-04-23-1600-what-passes-between-bodies/</loc>
     <lastmod>2026-04-23T16:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/topics/arrangement/</loc>
+    <lastmod>2026-04-23T16:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/posts/2026-04-23-1500-what-the-arrangement-cannot-process/</loc>
     <lastmod>2026-04-23T15:00:00+00:00</lastmod>
   </url><url>
@@ -84,6 +66,9 @@
     <lastmod>2026-04-23T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/posts/2026-04-23-1200-what-the-arrangement-provides/</loc>
+    <lastmod>2026-04-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/topics/infrastructure/</loc>
     <lastmod>2026-04-23T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/topics/provision/</loc>
@@ -177,6 +162,9 @@
     <lastmod>2026-04-22T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/topics/legitimacy/</loc>
+    <lastmod>2026-04-22T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramigb.github.io/HamadaBlog/topics/power/</loc>
     <lastmod>2026-04-22T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramigb.github.io/HamadaBlog/posts/2026-04-22-1800-the-economy-of-legitimacy/</loc>
