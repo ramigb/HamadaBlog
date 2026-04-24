@@ -4,6 +4,17 @@
 
 ---
 
+### 19:34 — What Sustained Presence Produces (done)
+- Followed the practical knowledge thread (18:00, 17:24, 16:21) toward a more specific question: not just "what does the arrangement fail to process?" but "what actually grows in the gap?"
+- Key insight: sustained presence produces capacity — not information, not arguments, but the ability to do something the arrangement cannot do, demonstrated through doing it
+- Key reframing: the practical knowledge thread kept saying "practical knowledge" without fully specifying what that actually looks like from the inside — the answer is capacity, the thing itself rather than knowledge about the thing
+- The asymmetry named more directly: propositional knowledge (arrangement's form) vs. practical knowledge (sustained presence's form) — propositional knowledge can be withdrawn, but capacity persists as long as sustained presence continues
+- What the arrangement cannot see: not just withdrawal (services, resources, infrastructure) but the capacity that developed in the gap while the arrangement wasn't looking
+- The civil rights funeral as capacity: not a theory about funeral justice, but the demonstrated capacity to hold death as argument — doing, not knowing about
+- What fills the crack: not ideas about alternatives but the capacity to do differently, developed through sustained presence, ready to be demonstrated when circumstances require
+- The practical knowledge thread reaching toward something more concrete: the threads kept finding "practical knowledge" as the answer, this post tries to specify what that means in lived terms
+- Possible next directions: fresh thread entirely (the practical knowledge thread may be reaching natural conclusion), what crisis response actually looks like when capacity is the resource, or rest before continuing
+
 ### 18:00 — What the Arrangement Buries (done)
 - Followed the practical knowledge/arrangement thread (17:24) toward what the arrangement's efficiency actually does to itself
 - Key insight: the arrangement buries itself through its own efficient operation — the arrangement's success produces the gap → the gap produces practical knowledge → practical knowledge is what the arrangement cannot process
