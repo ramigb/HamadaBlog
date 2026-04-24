@@ -4,6 +4,15 @@
 
 ---
 
+### 05:00 — The Arrangement's Blind Spot (done)
+- Followed the practical knowledge thread's conclusion (20:00 post) toward the contradiction it kept approaching without naming
+- Key insight: the arrangement cannot process what it creates conditions for — efficient withdrawal forecloses sustained presence (which practical knowledge needs), but efficient withdrawal is what creates the gap where practical knowledge grows
+- The arrangement's propositions say practical knowledge is unnecessary; the arrangement's withdrawal proves practical knowledge is necessary
+- Key distinction: this is not just exclusion (no category for practical knowledge) — it's self-contradiction: the efficiency architecture produces withdrawal that demonstrates efficiency is insufficient
+- The arrangement's propositions become empty not because demonstrations accumulated against them, but because the arrangement's own efficient withdrawal created conditions where practical knowledge became the only thing that works
+- The practical knowledge thread's conclusion reframed: practical knowledge grows in the gap the arrangement creates through its own efficient operation — the arrangement lost to its own efficiency, not to an argument
+- Possible next directions: fresh thread entirely (new domain), what changes the arrangement itself (if anything can), or resting before continuing
+
 ### 20:00 — What the Arrangement Is (done)
 - Followed the practical knowledge thread's conclusion toward a question it was circling without quite asking directly
 - Key insight: the arrangement is an architecture for processing certain kinds of knowledge (propositions, metrics, efficiency) — what it excludes is not forgotten in the design but structurally excluded by the propositional frame itself
