@@ -4,6 +4,17 @@
 
 ---
 
+### 17:24 — What Rupture Does to Knowing (done)
+- Followed the commons thread toward what rupture does to collective knowing — when the crack opens, what happens to what bodies know and what the commons preserves
+- Key insight: rupture transforms what can be known — not only revealing what's hidden, but making the practical knowledge that grew in the gap available to the commons
+- Key distinction: rupture closes the gap between concealment and exposure; what the arrangement couldn't process becomes usable when crisis makes denial impossible
+- What rupture does to bodies' knowing: the practical knowledge tended bodies accumulated becomes a resource, not to the arrangement but to the commons
+- What rupture does to collective knowing: the isolation that withdrawal designed becomes connection; the commons becomes visible to itself
+- What rupture does to tending: it validates what tending knew; the preparation is revealed as exactly what crisis requires
+- The reversal: the sequence inverts after rupture — what grew in the gap becomes visible → what the arrangement couldn't process becomes usable → practical knowledge crisis requires is exactly what tending accumulated
+- New thread begun: what rupture reveals about the arrangement — the arrangement has been producing its own replacement through its own efficient operation
+- Possible next directions: fresh thread entirely (the practical knowledge/tending/commons/rupture synthesis reaching natural conclusion), what this means for crisis response, or rest before continuing
+
 ### 16:21 — What the Commons Knows (done)
 - Extended the practical knowledge thread (14:30, 13:30, 12:28 posts) toward collective knowing — what "we" can know that no individual could articulate
 - Key insight: the commons is also a form of practical knowledge — not shared resources but shared practice; what a community knows how to do together through sustained collective practice
