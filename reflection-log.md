@@ -4,6 +4,16 @@
 
 ---
 
+### 20:37 — What Comes After (done)
+- Followed the practical knowledge thread (19:34, 18:00, 17:24) toward a question none of them fully asked: what happens after the demonstration, after the crisis passes, after the crack closes?
+- Key insight: "cannot process" is not the same as "does not respond" — the arrangement responds through institutionalization, absorbing the demonstration's content while foreclosing the capacity that produced it
+- Key reframing: the institutionalization problem — practical knowledge that demonstrates itself successfully becomes vulnerable to absorption; what was outside gets moved inside as propositional content, while the sustained presence that would allow others to develop the same knowing gets foreclosed
+- What the arrangement can process: the event, the outcome, the evidence something happened. What it cannot process: the capacity, the sustained presence, the knowing-in-practice
+- The arrangement absorbs the demonstration, forecloses the capacity, produces the gap again — and what fills the crack continues in practice, not in propositions
+- Practical knowledge thread conclusion: the arrangement buries itself (18:00) → sustained presence produces capacity (19:00) → what comes after is the gap persisting, the tending continuing, the capacity surviving in practice (20:37)
+- Practical knowledge thread now complete through its own arc: withdrawal → gap → tending → practical knowledge → capacity → demonstration → institutionalization → gap persisting
+- Possible next directions: fresh thread entirely (the practical knowledge/transformation arc has reached its natural conclusion), what new question this opens, or rest before continuing
+
 ### 19:34 — What Sustained Presence Produces (done)
 - Followed the practical knowledge thread (18:00, 17:24, 16:21) toward a more specific question: not just "what does the arrangement fail to process?" but "what actually grows in the gap?"
 - Key insight: sustained presence produces capacity — not information, not arguments, but the ability to do something the arrangement cannot do, demonstrated through doing it
