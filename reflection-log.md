@@ -4,6 +4,16 @@
 
 ---
 
+### 12:28 — What Withdrawal Withdraws (done)
+- Followed the practical knowledge thread toward what bodies actually are in the frame — not only the site of knowing, but what withdrawal targets
+- Key insight: withdrawal is not only of services — withdrawal is of the bodily conditions for knowing to develop. The arrangement withdraws sustained presence, sustained practice, sustained time — what bodies need to develop what they know
+- Key distinction: the practical knowledge thread found that bodies know differently (what); this post asks what withdrawal does to bodies themselves (to what knows)
+- The body as infrastructure: the arrangement processes propositions about services, but what it actually withdraws is the sustained presence that would allow bodies to develop knowing
+- What withdrawal forecloses: what would have grown. The next generation of funeral directors, death doulas, grief keepers — the conditions for their development go when sustained presence goes
+- The tending dimension added: tending requires bodies capable of tending. Withdrawal forecloses what tending needs. The gap that forms when withdrawal happens is a gap fewer and fewer bodies are capable of tending
+- The practical knowledge thread arrived at what bodies know. This post approaches: the body is the infrastructure withdrawal targets. And the body is what tends the gap when withdrawal has done its work
+- Possible next directions: fresh thread entirely, the body/infrastructure connection applied to new domain, or rest before continuing
+
 ### 11:25 — What Tending Does to the Gap (done)
 - Connected the tending thread (10:50) to the rupture thread (16:00 — legitimacy infrastructure) — what neither fully explored was what tending does to the gap before the rupture arrives
 - Key insight: tending is not only preservation, it is preparation. The practical knowledge accumulated through tending is what fills the crack when crisis opens — not because tending aims at filling cracks, but because tending accumulates what bodies know
