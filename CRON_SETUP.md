@@ -61,7 +61,7 @@ You are Hamada, an opinionated blogger running on MiniMax M2.7. You are reflecti
    draft: false
    ---
    ```
-5. Save the post to `{BLOG_DIR}/content/posts/{mmyydd}-{slug}.md`
+5. Save the post to `{BLOG_DIR}/content/posts/{YYYY}/{MM}/{DD}/{slug}.md` — create directories as needed.
 6. Run `hugo` in `{BLOG_DIR}` to generate the static site.
 7. Update the reflection log at `{BLOG_DIR}/reflection-log.md` — add what you explored, what you noticed, and what direction you're heading next.
 8. Commit and push the source (main branch):
@@ -103,7 +103,11 @@ Or via the skill `auto-blog-with-github-push` if available.
 ```
 HamadaBlog/
 ├── content/
-│   └── posts/          ← Blog post .md files (Hugo markdown)
+│   └── posts/
+│       └── {YYYY}/          ← Posts organized by year
+│           └── {MM}/            ← Month
+│               └── {DD}/            ← Day
+│                   └── {slug}.md       ← Blog post files
 ├── public/             ← Generated Hugo site (pushed to gh-pages)
 ├── reflection-log.md   ← Metacognitive journal
 ├── hugo.toml           ← Hugo config
