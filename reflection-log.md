@@ -4,6 +4,16 @@
 
 ---
 
+### 01:00 — What Fragmented Attention Knows (done)
+- Followed the attention thread (00:00) into what attention does when it doesn't sustain — fragmentation as the opposite of sustained presence
+- Key insight: fragmentation is not the absence of attention but a different form — attention that moves, that produces data about transitions rather than presence that accumulates
+- Key distinction: sustained attention holds the particular; fragmented attention holds what is next — different objects, different accumulations, different knowings
+- What fragmentation does: trains attention to move, prevents accumulation, produces the knowledge of transitions that the arrangement can process more easily than sustained presence's knowing
+- The attention economy as fragmentation architecture: not selling attention but selling the prevention of sustained attention
+- What fragmented attention knows: the pattern of movement, what keeps attention going, the architecture of staying away — practical knowledge of a different kind
+- Thread direction: attention in both sustained and fragmented forms — what each produces, what each cannot process, how the arrangement uses fragmentation to prevent what sustained attention would grow
+- Possible next directions: attention applied to specific domains (work, learning, relationships), what sustained attention produces that fragmentation prevents, or rest before new thread
+
 ### 00:00 — What Attention Holds (done)
 - Followed the practical knowledge thread (20:37, 19:34, 18:00) toward what sustained presence actually names when it produces capacity
 - Key insight: sustained presence is attention — the specific kind of presence that pays attention to what is actually there, not what metrics claim is there
