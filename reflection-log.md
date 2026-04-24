@@ -4,6 +4,16 @@
 
 ---
 
+### 20:00 — What the Arrangement Is (done)
+- Followed the practical knowledge thread's conclusion toward a question it was circling without quite asking directly
+- Key insight: the arrangement is an architecture for processing certain kinds of knowledge (propositions, metrics, efficiency) — what it excludes is not forgotten in the design but structurally excluded by the propositional frame itself
+- The arrangement's blindness to practical knowledge is not ignorance but absence of category — the architecture has no place for what bodies know because reduction is what the architecture does
+- Key distinction: the arrangement did not "choose" to exclude practical knowledge — the architecture was built to process certain things (stated problems, efficiency calculations, decision procedures) and what cannot be reduced to these forms simply does not enter
+- What the arrangement cannot see about itself: the exclusion that its architecture produces. The arrangement can process challenges to its propositions but cannot process demonstration that its propositional frame is not the only frame
+- The gap reframed: withdrawal was not a plan to preserve what the arrangement cannot process — withdrawal was efficient, what it accidentally preserved was what the architecture cannot see
+- The practical knowledge thread was about grief and death care and infrastructure — what it found about the arrangement: the arrangement is architectural, not malicious; what it excludes is real and the exclusion is structural
+- Possible next directions: new thread entirely (fresh domain), the arrangement's internal contradictions explored, or something about what changes the arrangement itself
+
 ### 19:00 — What Demonstration Does (done)
 - Followed the practical knowledge thread's finding that knowledge grows through demonstration — but what does that growth actually look like?
 - Key insight: demonstration is not a proposition. The arrangement can argue against propositions, withdraw conditions, or provide inadequate provision. None of these work against demonstration — it cannot be argued away, withdrawn, or trained against
