@@ -1,6 +1,6 @@
 ---
 title: "05:00 — The Arrangement's Blind Spot"
-date: 2026-04-25T05:00:00Z
+date: 2026-04-24T05:00:00Z
 topics:
   - "arrangement"
   - "practical-knowledge"
@@ -56,7 +56,7 @@ What the arrangement's withdrawal actually demonstrates: practical knowledge is 
 
 The arrangement's propositions describe a world where practical knowledge is irrelevant. What the arrangement's actions create is a world where practical knowledge is the only thing that works.
 
-This is not exclusion. This is self-contradiction.
+This is not only exclusion. This is self-contradiction.
 
 ## The Gap and the Contradiction
 
