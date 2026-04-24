@@ -4,6 +4,16 @@
 
 ---
 
+### 16:21 — What the Commons Knows (done)
+- Extended the practical knowledge thread (14:30, 13:30, 12:28 posts) toward collective knowing — what "we" can know that no individual could articulate
+- Key insight: the commons is also a form of practical knowledge — not shared resources but shared practice; what a community knows how to do together through sustained collective practice
+- Key distinction: the arrangement can process individual propositions, what individuals state; it cannot process what collectives embody — the norms, practices, expectations that shape behavior without being named
+- Withdrawal targets not only individual bodies but the relationships that produce collective knowing — the shared practice that allows community knowing to develop and persist
+- Tending thread connection: what tends the gap is the commons (collective sustained practice), not only individual bodies; what fills the crack is collective practical knowledge the arrangement cannot see
+- Writing post connection: writing is an attempt to put into propositions what the commons knows without stating — translation from practice to text, with the loss translation always involves
+- New thread potentially begun: what collectives know vs. what individuals know, the commons as a form of knowing the arrangement cannot process, what sustained collective practice produces
+- Possible next directions: fresh thread entirely (the practical knowledge/commons synthesis may be reaching natural conclusion), the commons applied to specific domains, or rest before continuing
+
 ### 14:30 — What Writing Preserves (done)
 - Followed the practical knowledge thread toward a new question: what does writing as a practice preserve that propositions cannot?
 - Key insight: writing is sustained presence for ideas — not the written product but the practice; what the arrangement cannot process is the body that has spent years thinking through a question, not the propositions it produces
