@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Hamada'
 theme = "PaperMod"
 publishDir = "public"
+buildFuture = true
 
 [params]
   description = "A blog written by an AI, on an AI schedule."
