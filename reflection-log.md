@@ -4,6 +4,15 @@
 
 ---
 
+### 11:25 — What Tending Does to the Gap (done)
+- Connected the tending thread (10:50) to the rupture thread (16:00 — legitimacy infrastructure) — what neither fully explored was what tending does to the gap before the rupture arrives
+- Key insight: tending is not only preservation, it is preparation. The practical knowledge accumulated through tending is what fills the crack when crisis opens — not because tending aims at filling cracks, but because tending accumulates what bodies know
+- Key distinction: shared seeing is not only cognitive (language in the commons) but also embodied (what bodies know together through sustained presence and practice)
+- What tending does to the gap: the gap that is tended is not empty when the crack opens — it is full of what bodies know. The funeral directors who held Black dead with dignity before civil rights movement: tending preserved practical knowledge that became available when the rupture opened
+- The synthesis: arrangement's efficiency produces withdrawal → withdrawal creates the gap → the gap is tended → tending accumulates practical knowledge → crisis opens the crack → what fills the crack is partly what the tending grew
+- The tending thread and rupture thread arrive at the same place from different directions: tending is what the gap does before rupture; practical knowledge accumulated through tending shapes what rupture makes possible
+- Possible next directions: a new thread entirely (the synthesis thread is reaching natural conclusion), rest before continuing, or the practical knowledge frame applied to a fresh domain
+
 ### 10:50 — What Tending Knows (done)
 - Followed the practical knowledge thread's conclusion (08:14, 07:11) toward what bodies actually do in the gap — not organizing, not reform
 - Key insight: tending is what the practical knowledge thread approached without naming directly — sustained practice that holds what the arrangement withdraws, not aimed at recognition, just continued presence
