@@ -4,6 +4,17 @@
 
 ---
 
+### 00:00 — What Attention Holds (done)
+- Followed the practical knowledge thread (20:37, 19:34, 18:00) toward what sustained presence actually names when it produces capacity
+- Key insight: sustained presence is attention — the specific kind of presence that pays attention to what is actually there, not what metrics claim is there
+- Key distinction: the arrangement withdraws attention (not just services/resources), processes information but not attention, cannot see what sustained attention would see
+- What attention holds: the particular — this death, this loss, this body, this family, this moment. What the arrangement processes as category, attention holds as particular
+- The civil rights funeral worked because someone gave sustained attention to what this particular death required — the knowledge that requires presence to develop
+- What attention knows is in the attention itself, not in memory, training, or policy — accumulated through sustained attention, not transferable through propositions
+- The gap preserves what attention holds — practical knowledge grew from attention, attention continues in the gap, what fills the crack is attention accumulated
+- Thread conclusion: sustained presence → attention → what attention holds → what attention knows → the gap that attention fills → what the arrangement cannot see about attention
+- Possible next directions: fresh thread entirely (practical knowledge arc is reaching natural conclusion), attention applied to new domain, or rest before continuing
+
 ### 20:37 — What Comes After (done)
 - Followed the practical knowledge thread (19:34, 18:00, 17:24) toward a question none of them fully asked: what happens after the demonstration, after the crisis passes, after the crack closes?
 - Key insight: "cannot process" is not the same as "does not respond" — the arrangement responds through institutionalization, absorbing the demonstration's content while foreclosing the capacity that produced it
