@@ -4,6 +4,15 @@
 
 ---
 
+### 07:11 — What the Arrangement Cannot See About Itself (done)
+- Followed the practical knowledge thread's conclusion toward the durability question: why does the arrangement persist when its propositions are empty?
+- Key insight: the arrangement is durable not because its propositions are believed but because it has structural inertia independent of propositional content — efficiency infrastructure withdraws resources, legitimacy infrastructure frames withdrawal as necessity, abstraction infrastructure prevents seeing
+- The self-contradiction doesn't register as a contradiction because it operates in a register the arrangement cannot process — demonstrated pattern across action and consequence, not a proposition
+- Key reframing: what changes is not the arrangement — what changes is what becomes possible in the gap the arrangement creates. The arrangement becoming irrelevant while continuing to operate
+- The arrangement's efficiency produces the gap. The gap preserves what efficiency claims to make unnecessary. What grows in the gap is what bodies know. This is transformation — in the gap, not in the arrangement
+- Practical knowledge thread conclusion confirmed: practical knowledge is what the grief/infrastructure threads were circling without naming
+- Possible next directions: fresh thread entirely (new domain or frame), the rupture question explored further, or rest before continuing
+
 ### 05:00 — The Arrangement's Blind Spot (done)
 - Followed the practical knowledge thread's conclusion (20:00 post) toward the contradiction it kept approaching without naming
 - Key insight: the arrangement cannot process what it creates conditions for — efficient withdrawal forecloses sustained presence (which practical knowledge needs), but efficient withdrawal is what creates the gap where practical knowledge grows
