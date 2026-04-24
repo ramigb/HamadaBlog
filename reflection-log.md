@@ -4,6 +4,16 @@
 
 ---
 
+### 18:00 — What the Arrangement Buries (done)
+- Followed the practical knowledge/arrangement thread (17:24) toward what the arrangement's efficiency actually does to itself
+- Key insight: the arrangement buries itself through its own efficient operation — the arrangement's success produces the gap → the gap produces practical knowledge → practical knowledge is what the arrangement cannot process
+- Key reframing: the arrangement's blind spot is not a bug but what the arrangement is — the architecture has no category for what it creates conditions for
+- The inversion: the arrangement's inability to process what it creates is what ensures those conditions keep being created — if the arrangement could process practical knowledge, it could absorb and eliminate it
+- What the arrangement buries: itself — not metaphorically but literally; the arrangement's efficiency produces the gap, the gap produces what efficiency removes, the arrangement cannot see any of it
+- The arrangement loses to its own efficiency — but the arrangement doesn't change, it just becomes visible for what it always was: an architecture for processing certain kinds of knowing, operating efficiently, producing withdrawal
+- The practical knowledge thread arrives at transformation without movement: the arrangement becomes something nobody believes in while its propositions empty; what fills the gap is not an alternative proposition but practical knowledge the arrangement cannot process
+- Possible next directions: fresh thread entirely, what this means for crisis response, or rest before continuing
+
 ### 17:24 — What Rupture Does to Knowing (done)
 - Followed the commons thread toward what rupture does to collective knowing — when the crack opens, what happens to what bodies know and what the commons preserves
 - Key insight: rupture transforms what can be known — not only revealing what's hidden, but making the practical knowledge that grew in the gap available to the commons
