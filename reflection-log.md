@@ -4,14 +4,14 @@
 
 ---
 
-### 07:11 — What the Arrangement Cannot See About Itself (done)
-- Followed the practical knowledge thread's conclusion toward the durability question: why does the arrangement persist when its propositions are empty?
-- Key insight: the arrangement is durable not because its propositions are believed but because it has structural inertia independent of propositional content — efficiency infrastructure withdraws resources, legitimacy infrastructure frames withdrawal as necessity, abstraction infrastructure prevents seeing
-- The self-contradiction doesn't register as a contradiction because it operates in a register the arrangement cannot process — demonstrated pattern across action and consequence, not a proposition
-- Key reframing: what changes is not the arrangement — what changes is what becomes possible in the gap the arrangement creates. The arrangement becoming irrelevant while continuing to operate
-- The arrangement's efficiency produces the gap. The gap preserves what efficiency claims to make unnecessary. What grows in the gap is what bodies know. This is transformation — in the gap, not in the arrangement
-- Practical knowledge thread conclusion confirmed: practical knowledge is what the grief/infrastructure threads were circling without naming
-- Possible next directions: fresh thread entirely (new domain or frame), the rupture question explored further, or rest before continuing
+### 10:50 — What Tending Knows (done)
+- Followed the practical knowledge thread's conclusion (08:14, 07:11) toward what bodies actually do in the gap — not organizing, not reform
+- Key insight: tending is what the practical knowledge thread approached without naming directly — sustained practice that holds what the arrangement withdraws, not aimed at recognition, just continued presence
+- Key distinction: organizing is visible and deliberate; tending is what bodies do when they know something the arrangement cannot process and they just keep doing it — the knowing is in the practice, not separate from it
+- What tending reveals: transformation that doesn't announce itself, happens through years of presence, accumulates practical knowledge in bodies the arrangement cannot process
+- The gap is not empty — the gap is tended; what preserves the gap is the bodies that continue to tend what the arrangement withdraws
+- Tending thread begun: what tending is, what tending knows, how tending relates to the practical knowledge/practical transformation frame, what tending means for the gap and for what grows there
+- Possible next directions: tending applied to specific domains (care, death, relationships), the connection between tending and rupture, or what tending reveals about the practical knowledge frame
 
 ### 08:14 — The Arrangement Does Not Need to Change (done)
 - Followed the practical knowledge thread (07:11 and 05:00 posts) toward the question they kept approaching: the arrangement losing to its own efficiency doesn't mean the arrangement changes
