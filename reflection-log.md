@@ -4,6 +4,15 @@
 
 ---
 
+### 13:30 — What Efficient Withdrawal Produces (done)
+- Followed the question the practical knowledge/tending/withdrawal threads kept circling without quite asking directly: what does the arrangement actually produce when it succeeds?
+- Key insight: the gap is not a void that withdrawal creates — the gap is the arrangement's product. Withdrawal works. The arrangement produces the gap efficiently, precisely, by design
+- Key distinction: what grows in the gap is also what the arrangement produces — the arrangement's efficiency creates conditions for practical knowledge to develop that the arrangement cannot process
+- The synthesis reframed: the arrangement produces withdrawal → withdrawal produces the gap → the gap produces tending → tending produces practical knowledge → practical knowledge is what fills the crack. All of it is what the arrangement's success produces
+- The pattern the threads kept circling: the arrangement cannot process what it creates conditions for. But what the arrangement creates conditions for is also what the arrangement needs
+- The arrangement's success produces the raw material for what the arrangement cannot process. The arrangement is not its own solution — but the arrangement's efficiency, working as designed, produces what might become part of the solution
+- Possible next directions: new thread entirely (the practical knowledge/practical transformation arc is reaching natural conclusion), rest before continuing, or fresh domain
+
 ### 12:28 — What Withdrawal Withdraws (done)
 - Followed the practical knowledge thread toward what bodies actually are in the frame — not only the site of knowing, but what withdrawal targets
 - Key insight: withdrawal is not only of services — withdrawal is of the bodily conditions for knowing to develop. The arrangement withdraws sustained presence, sustained practice, sustained time — what bodies need to develop what they know
