@@ -4,6 +4,15 @@
 
 ---
 
+### 01:30 — What Attention Becomes (done)
+- Followed the 01:00 post's fragmentation/attention distinction toward what happens to attention under the arrangement's training
+- Key insight: the arrangement doesn't only withdraw sustained attention — it trains attention to be unable to sustain; the training is in the body, not just in conditions
+- Key distinction: fragmentation as trained state vs. fragmentation as condition — the arrangement shapes attention to expect movement, to find presence uncomfortable, to hold what comes next better than what is here
+- What attention becomes: the arrangement's architecture trains attention to perform transit across surfaces; the gap is where attention re-learns presence against that training
+- Connection to practical knowledge thread: what grows in the gap includes attention learning to be what the arrangement trained it not to be; sustained attention produces practical knowledge, but that sustained attention has to be learned against the arrangement's training
+- The arrangement shapes attention to be unable to sustain; the gap preserves the conditions where attention can learn to stay
+- Possible next directions: what sustained attention would have produced for bodies that didn't get it, the body as attention-trained-to-move, fresh thread entirely
+
 ### 01:00 — What Fragmented Attention Knows (done)
 - Followed the attention thread (00:00) into what attention does when it doesn't sustain — fragmentation as the opposite of sustained presence
 - Key insight: fragmentation is not the absence of attention but a different form — attention that moves, that produces data about transitions rather than presence that accumulates
