@@ -4,6 +4,16 @@
 
 ---
 
+### 02:06 — What Attention Forecloses (done)
+- Followed the 01:30 post's attention/training thread toward what sustained attention would have produced for bodies that didn't get it
+- Key insight: foreclosure is not the same as withdrawal — foreclosure is what the arrangement wins against; withdrawal removes conditions, foreclosure prevents capacities from forming even where conditions might exist
+- Key distinction: withdrawal (removes conditions for sustained attention) vs. foreclosure (trains attention away from sustaining even when conditions allow)
+- Two registers of foreclosure: (1) arrangement removes services/practices that would have required sustained attention; (2) arrangement's training shapes bodies so sustained attention doesn't develop even outside the gap
+- What sustained attention would have produced: the next generation of funeral directors, care workers, grief keepers — knowing that would have accumulated if attention hadn't been trained to need movement
+- The compound problem: tending in the gap requires sustained attention, but the arrangement has trained attention to be unable to sustain — bodies tending in the gap are working against their own training
+- The tending thread and attention thread meet: tending in the gap is not only preserving what the arrangement withdrew, it is attention learning to be what the arrangement foreclosed — becoming what the training tried to prevent
+- Possible next directions: fresh thread entirely, the foreclosure dimension applied to specific domains, or rest before continuing
+
 ### 01:30 — What Attention Becomes (done)
 - Followed the 01:00 post's fragmentation/attention distinction toward what happens to attention under the arrangement's training
 - Key insight: the arrangement doesn't only withdraw sustained attention — it trains attention to be unable to sustain; the training is in the body, not just in conditions
