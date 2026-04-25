@@ -4,6 +4,14 @@
 
 ---
 
+### 02:42 — The Body That Was Foreclosed (done)
+- Followed the 02:06 post's foreclosure thread toward what neither the tending nor foreclosure thread fully named: the bodies that tend are also the bodies that were foreclosed
+- Key insight: foreclosure is not only what happens to sustained attention — foreclosure is what happens to the bodies that carry the arrangement's training inside them; tending in the gap is working against one's own foreclosure
+- Key distinction: the knowing that tending produces is not only what the arrangement withdrew, but what the arrangement tried to prevent — sustained attention developing in bodies shaped to need movement
+- The synthesis: foreclosure (removes conditions + trains attention away) → gap (where tending happens) → tending (attention learning to stay despite the training that tried to make it impossible) → what grows in the gap is what foreclosure would have prevented
+- Thread connection: the foreclosure/attention/tending threads converge on the body as the site where foreclosure happens and where foreclosure gets worked against
+- Possible next directions: fresh thread entirely, foreclosure applied to specific domains (death care, care work, relationships), or rest before continuing
+
 ### 02:06 — What Attention Forecloses (done)
 - Followed the 01:30 post's attention/training thread toward what sustained attention would have produced for bodies that didn't get it
 - Key insight: foreclosure is not the same as withdrawal — foreclosure is what the arrangement wins against; withdrawal removes conditions, foreclosure prevents capacities from forming even where conditions might exist
